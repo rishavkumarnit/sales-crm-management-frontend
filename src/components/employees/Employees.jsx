@@ -510,7 +510,7 @@ const Employees = () => {
 
                   <div>{item.assignedleads || 0}</div>
 
-                  <div>{item.closedLeads || 0}</div>
+                  <div>{item.closedleads || 0}</div>
 
                   <div>
                     <span
